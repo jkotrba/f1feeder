@@ -1,10 +1,10 @@
 {
-  "name": "angular-seed",
+  "name": "f1feeder",
   "private": true,
-  "version": "0.0.0",
-  "description": "A starter project for AngularJS",
-  "repository": "https://github.com/angular/angular-seed",
-  "license": "MIT",
+  "version": "0.0.0-part1",
+  "description": "Tutorial application to display f1 racing data build from angular-seed",
+  "repository": "https://github.com/jkotrba/f1feeder",
+  "license": "ISC",
   "devDependencies": {
     "karma": "~0.10",
     "protractor": "^1.1.1",
